@@ -11,7 +11,7 @@ chromadb
 # =============================================================================
 # Docling (docling_document_parsing.ipynb)
 # =============================================================================
-docling==2.55.1
+docling
 docling-core[chunking]
 langchain-docling
 
